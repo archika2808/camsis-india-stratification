@@ -28,13 +28,13 @@ The pipeline is designed so you can replace the synthetic dataset with real Indi
 
 Objectives:-
 
-Construct an occupation–occupation interaction matrix
+1. Construct an occupation–occupation interaction matrix
 
-Derive a CAMSIS-like scale using correspondence analysis
+2. Derive a CAMSIS-like scale using correspondence analysis
 
-Validate the scale against income and education
+3. Validate the scale against income and education
 
-Provide visualizations of stratification patterns
+4. Provide visualizations of stratification patterns
 
 
 Libraries Used:-
