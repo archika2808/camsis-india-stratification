@@ -84,11 +84,11 @@ Methodology:-
 
  Visualizations:-
 
-![Occupation vs CAMSIS Score](plots/Occupation_vs_CAMSIS_Score.png)
+![Occupation vs CAMSIS Score](Occupation_vs_CAMSIS_Score.png)
 
-![Occupation Interaction Matrix](plots/Occupation_Interaction_Matrix.png)
+![Occupation Interaction Matrix](Occupation_Interaction_Matrix.png)
 
-![Income vs CAMSIS Score](plots/Income_vs_CAMSIS_Score.png)
+![Income vs CAMSIS Score](Income_vs_CAMSIS_Score.png)
 
 
 
